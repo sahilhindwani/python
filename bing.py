@@ -11,7 +11,7 @@ from urllib import quote
 import json
 import webbrowser
 import sys
-API_KEY = "PYVolCI7EsUa7HwJRTlGUIfTg3nsS4nA3hO1TKpEUgI"
+API_KEY = ""#your key here
 
 def bing_api(query,t):
 	url = "https://api.datamarket.azure.com/Bing/Search/v1/Web"
